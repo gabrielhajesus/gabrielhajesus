@@ -7,26 +7,10 @@ Aqui você vai encontrar meus principais projetos e contribuições.
 
 ## 🚀 Principais Projetos
 
-### 🔹 [Nome do Projeto 1](link-do-repo-ou-site)
-Descrição curta do projeto.  
-- 🚀 Tecnologias: Python, Flask, SQL  
-- ⭐ Destaques: Autenticação JWT, CRUD completo, API REST
-
----
-
-### 🔹 [Nome do Projeto 2](link-do-repo-ou-site)
-Descrição curta do projeto.  
-- 🚀 Tecnologias: Node.js, Express, MongoDB  
-- ⭐ Destaques: API em produção, integração com frontend
-
----
-
-### 🔹 [Nome do Projeto 3](link-do-repo-ou-site)
-Descrição curta do projeto.  
-- 🚀 Tecnologias: React, TailwindCSS  
-- ⭐ Destaques: Dashboard interativo, gráficos dinâmicos
-
----
+### 🔹 [Web-Rpg-Application](https://github.com/gabrielhajesus/Web-Rpg-Application) 
+Projeto de uma aplicação para mestres e jogadores de RPG de mesa, contando com autenticação de usuario, criação de partidas, adição de comentários as partidas e .  
+- 🚀 Tecnologias: JAVA SPRING, REACT, MYSQL  
+- ⭐ Destaques: Autenticação, CRUD completo, API REST, MVC
 
 ## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
@@ -36,5 +20,5 @@ Descrição curta do projeto.
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [seu-link](https://linkedin.com/in/seu-user)
-- Email: seuemail@gmail.com
+- LinkedIn: [seu-link](https://linkedin.com/in/gabriel-jesus-b72b0713a)
+- Email: gabrielhj.alberto@gmail.com
