@@ -41,21 +41,18 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
 - ⚙️ **Arquitetura flexível**, permitindo adicionar novos sites facilmente  
 
 🚀 **Tecnologias:** Python, BeautifulSoup, Selenium, Flask, PyMongo  
-⭐ **Destaques:** Scraping automatizado, integração com banco de dados, interface web simples e funcional  
+⭐ **Destaques:** Scraping automatizado, integração com banco de dados, interface web simples e funcional 
 
 ## 📊 Estatísticas no GitHub
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical" height="180em" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielhajesus&theme=radical&hide_border=false" height="180em" />
+</div>
+
 ## 📫 Como me encontrar
  - [LinkedIn](https://linkedin.com/in/gabriel-jesus-b72b0713a)
  - [Email](gabrielhj.alberto@gmail.com)
