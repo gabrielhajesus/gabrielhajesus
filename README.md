@@ -18,7 +18,7 @@ Aplicação web desenvolvida para **mestres e jogadores de RPG de mesa**, com fu
 🚀 **Tecnologias:** Java Spring, React, MySQL  
 ⭐ **Destaques:** Autenticação completa, CRUD funcional, API REST, arquitetura MVC  
 
-### 🔹 [SmartDoc - API de Marcação de Consultas Médicas](https://github.com/Salmaii/SmartDoc)  
+### 🔹 [SmartDoc - API de Marcação de Consultas Médicas](https://github.com/gabrielhajesus/SmartDoc)
 Aplicação desenvolvida para **facilitar a marcação e o gerenciamento de consultas médicas**, servindo como intermediária entre pacientes, médicos e funcionários da clínica:  
 
 - 👨‍⚕️ **Perfis distintos**: paciente, médico e funcionário  
