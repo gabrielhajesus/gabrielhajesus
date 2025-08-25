@@ -46,7 +46,7 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrielhajesus&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhajesus&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhajesus&" alt="gabrielhajesus" />
 </div>
 ---
 
