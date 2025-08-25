@@ -45,11 +45,17 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
 
 ## 📊 Estatísticas no GitHub
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical&show_icons=true" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
 </div>
----
-
 ## 📫 Como me encontrar
  - [LinkedIn](https://linkedin.com/in/gabriel-jesus-b72b0713a)
  - [Email](gabrielhj.alberto@gmail.com)
