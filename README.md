@@ -26,5 +26,5 @@ Aplicação web desenvolvida para **mestres e jogadores de RPG de mesa**, com fu
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://linkedin.com/in/gabriel-jesus-b72b0713a)
-- Email: gabrielhj.alberto@gmail.com
+ - [LinkedIn](https://linkedin.com/in/gabriel-jesus-b72b0713a)
+ - [Email](gabrielhj.alberto@gmail.com)
