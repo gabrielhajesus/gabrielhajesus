@@ -30,11 +30,7 @@ Aplicação desenvolvida para **facilitar a marcação e o gerenciamento de cons
 🚀 **Tecnologias:** Kotlin, Ktor, MySQL  
 ⭐ **Destaques:** API REST completa, múltiplos perfis de usuário, CRUD abrangente, endpoints bem estruturados  
 
-🎥 **Demonstração:** [Apresentação no YouTube](https://youtu.be/ZYmp9GjQkII)  
-📸 **Preview:**  
-<p align="center">
-  <img src="https://github.com/Salmaii/SmartDoc/blob/main/src/main/resources/SmartDoc%20Presentation%20Gif.gif" alt="SmartDoc Presentation Gif" />
-</p>
+🎥 **Demonstração:** [Apresentação no YouTube](https://youtu.be/ZYmp9GjQkII) 
 
 ## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical)
