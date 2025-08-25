@@ -7,10 +7,16 @@ Aqui você vai encontrar meus principais projetos e contribuições.
 
 ## 🚀 Principais Projetos
 
-### 🔹 [Web-Rpg-Application](https://github.com/gabrielhajesus/Web-Rpg-Application) 
-Projeto de uma aplicação para mestres e jogadores de RPG de mesa, contando com autenticação de usuario, criação de partidas, adição de comentários as partidas e .  
-- 🚀 Tecnologias: JAVA SPRING, REACT, MYSQL  
-- ⭐ Destaques: Autenticação, CRUD completo, API REST, MVC
+### 🔹 [Web-RPG-Application](https://github.com/gabrielhajesus/Web-Rpg-Application)  
+Aplicação web desenvolvida para **mestres e jogadores de RPG de mesa**, com funcionalidades que tornam a organização das campanhas mais prática e colaborativa:  
+
+- 🔑 **Autenticação de usuários** (registro e login seguro)  
+- 🎲 **Criação e gerenciamento de partidas** personalizadas  
+- 💬 **Sistema de comentários** para interação entre jogadores  
+- 📂 **Arquitetura escalável**, preparada para expansão (ex.: fichas de personagem, inventário, etc.)  
+
+🚀 **Tecnologias:** Java Spring, React, MySQL  
+⭐ **Destaques:** Autenticação completa, CRUD funcional, API REST, arquitetura MVC  
 
 ## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
