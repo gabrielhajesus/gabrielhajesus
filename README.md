@@ -50,7 +50,7 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=gabrielhajesus&theme=radical&hide_border=false&v=1" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhajesus&theme=radical&hide_border=false&v=1" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Como me encontrar
