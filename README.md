@@ -46,6 +46,7 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrielhajesus&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical&show_icons=true" />
 </div>
 ---
 
