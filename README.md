@@ -32,6 +32,17 @@ Aplicação desenvolvida para **facilitar a marcação e o gerenciamento de cons
 
 🎥 **Demonstração:** [Apresentação no YouTube](https://youtu.be/ZYmp9GjQkII) 
 
+### 🔹 [PromoHunter](https://github.com/gabrielhajesus/MarketScrapper)  
+Aplicação desenvolvida para **buscar automaticamente promoções em sites de compras** através de *web scraping* e exibir os produtos encontrados em uma aplicação web local:  
+
+- 🔎 **Scraping automatizado** de sites de e-commerce  
+- 💾 **Armazenamento em banco de dados** (MongoDB)  
+- 🌐 **Interface web em Flask** para exibição dos produtos  
+- ⚙️ **Arquitetura flexível**, permitindo adicionar novos sites facilmente  
+
+🚀 **Tecnologias:** Python, BeautifulSoup, Selenium, Flask, PyMongo  
+⭐ **Destaques:** Scraping automatizado, integração com banco de dados, interface web simples e funcional  
+
 ## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical)
 
