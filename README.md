@@ -19,9 +19,9 @@ Aplicação web desenvolvida para **mestres e jogadores de RPG de mesa**, com fu
 ⭐ **Destaques:** Autenticação completa, CRUD funcional, API REST, arquitetura MVC  
 
 ## 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhajesus&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical)
 
 ---
 
