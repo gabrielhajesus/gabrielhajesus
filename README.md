@@ -49,10 +49,6 @@ Aplicação desenvolvida para **buscar automaticamente promoções em sites de c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhajesus&layout=compact&theme=radical" height="180em" />
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhajesus&theme=radical&hide_border=false&v=1" alt="GitHub Streak"/>
-</div>
-
 ## 📫 Como me encontrar
  - [LinkedIn](https://linkedin.com/in/gabriel-jesus-b72b0713a)
  - [Email](gabrielhj.alberto@gmail.com)
